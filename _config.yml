@@ -28,7 +28,9 @@ url: "https://7amtheghost.github.io"
 github:
   username: 7amtheghost # change to your GitHub username
 
-
+social:
+copyright owner in the Footer
+  name: 7amtheghost
 
 # Site Verification Settings
 webmaster_verifications:
