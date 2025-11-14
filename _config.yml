@@ -19,7 +19,12 @@ title: 7amtheghost # the main title
 tagline: reverse engineer and malware analyst # it will display as the subtitle
 
 # Some rights reserved
-copyright: "© 2025 7amtheghost. Some rights reserved."
+social:
+  name: 7amtheghost
+  email: # لو عايز سيبه فاضي مفيش مشكلة
+  links:
+    - https://github.com/7amtheghost
+
 
 description: >- # used by seo meta and the atom feed
   a Cybersecurity major student, Reverse Engineer and Malware Analyst who's Interested in low-level stuff/programming and how things work under the hood..
